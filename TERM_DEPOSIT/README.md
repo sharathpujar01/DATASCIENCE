@@ -1,0 +1,7 @@
+Overview:
+
+Doing the things the old way is too risky nowadays. The companies must evolve and grasp the new technologies if they want to succeed.Adopting the Big Data analytics and imbuing it into the existing banking sector workflows is one of the key elements of surviving and prevailing in the rapidly evolving business environment of the digital millennium. Nowadays customer is becoming more sophisticated about their choice and quality of service being served to them.
+
+Working in Banking domain offers the best platform where one can hone their skills and allows one to take up any challenges stimulating work. According to IBM’s 2010 Global Chief Executive Officer Study, 89 percent of banking and financial markets CEOs say their top priority is to better understand, predict and give customers what they want.
+
+Investments in Big Data analytics in banking sector totaled $20.8 billion in 2016, according to the IDC Semiannual Big Data and Analytics Spending Guide of 2016. This makes the domain one of the dominant consumers of Big Data services and an ever-hungry market for Big Data architects, solutions and bespoke tools. In the next 5 years, they will have to learn to empower their operations with Big Data analytics, AI/ML algorithms, and other high-tech tools.
